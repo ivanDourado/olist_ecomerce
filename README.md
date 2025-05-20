@@ -21,22 +21,6 @@ Este repositório contém todo o processo de **ETL → EDA → Modelagem → Das
 
 ---
 
-## 📂 Estrutura do Repositório
-
- 
-
-.
-├─ data/                 # ⇦ coloque aqui o zip original ou os CSVs extraídos
-├─ notebooks/
-│  ├─ 01\_preparacao\_dados.ipynb
-│  ├─ 02\_eda.ipynb
-│  ├─ 03\_problemas\_negocio.ipynb
-│  └─ 04\_dashboards.ipynb
-├─ src/                  # funções utilitárias (ETL, features, plots)
-├─ requirements.txt
-└─ README.md
-
- `
 
 ---
 
