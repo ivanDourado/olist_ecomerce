@@ -1,4 +1,4 @@
-```markdown
+  
 # Análise de Dados – **Brazilian E-commerce Public Dataset by Olist**
 
 > Projeto completo para avaliação de Engenharia de Dados & Data Analytics  
@@ -23,7 +23,7 @@ Este repositório contém todo o processo de **ETL → EDA → Modelagem → Das
 
 ## 📂 Estrutura do Repositório
 
-```
+ 
 
 .
 ├─ data/                 # ⇦ coloque aqui o zip original ou os CSVs extraídos
@@ -36,7 +36,7 @@ Este repositório contém todo o processo de **ETL → EDA → Modelagem → Das
 ├─ requirements.txt
 └─ README.md
 
-````
+ `
 
 ---
 
@@ -55,7 +55,7 @@ Este repositório contém todo o processo de **ETL → EDA → Modelagem → Das
 
 Instalação rápida:
 
-```bash
+ bash
 # via pip
 python -m venv venv
 source venv/bin/activate        # Windows: .\venv\Scripts\activate
@@ -64,7 +64,7 @@ pip install -r requirements.txt
 # via conda
 conda env create -n olist_env -f environment.yml
 conda activate olist_env
-````
+ `
 
 ---
 
@@ -122,5 +122,5 @@ Código sob licença MIT – consulte `LICENSE`.
 Seu Nome · [LinkedIn](https://linkedin.com/in/seunome) · [seunome@email.com](mailto:seunome@email.com)
 Contribuições e sugestões são bem-vindas!
 
-```
-```
+ 
+ 
